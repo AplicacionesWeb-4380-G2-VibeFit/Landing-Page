@@ -660,3 +660,26 @@ header.sticky{
         height: 60vh; /* Reduce aún más la altura de la sección */
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1300px) {
+    .home-text h1 {
+        font-size: 4rem; /* Tamaño de fuente reducido */
+    }
+}
+
+@media (max-width: 1000px) {
+    .home-text h1 {
+        font-size: 2.7rem; /* Tamaño de fuente aún más reducido */
+    }
+}
+
